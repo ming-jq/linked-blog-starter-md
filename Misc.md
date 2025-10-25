@@ -1,0 +1,3 @@
+- [error: cannot run gpg: No such file or directory](https://stackoverflow.com/questions/36941533/git-hub-desktop-on-mac-error-cannot-run-gpg-no-such-file-or-directory)```
+	  git config --global gpg.program "$(which gpg)"
+- 

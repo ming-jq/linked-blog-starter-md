@@ -52,18 +52,5 @@
 - ForAgg - helps implementing BoD decisions
 - AIP store plan - load foragg and bod decisions to store
 
-## Miro board
-- Users: Internal merchandise team to propose promotion/A&R forecast team to do flyered demand forecast
-- Scope: Store-SKU-week level promotion uplift demand forecasts for _products?_
-- Current solution:
-	- 61.7% accuracy - how is this obtained?
-	- Business numbers - headline expected £3.6M annual sales uplift opportunity
-- Request from users 
-- Business objective:
-	- Product accurate promotional uplift that feeds into demand forecast process.
-	- Underestimate - missed sales
-	- Overestimate - excess maintenance costs
-- ML objective: Produce Store-SKU-week level promotion uplift demand forecasts that minimises the difference between predicted uplift and real uplift from demcalc outputs (which is available retrospectively only).
-	- Multiplicative percentage uplift - makes sense if promotion effect scales with baseline demand. Is this the case? Can know by plotting historical uplift vs baseline demand.
-	- Additive quantity uplift - makes sense if promotion brings in fixed number of customers regardless of baseline.
+
 
