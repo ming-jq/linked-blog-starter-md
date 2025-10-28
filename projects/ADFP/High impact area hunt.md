@@ -7,7 +7,7 @@
 **How:**
 - Compare current model forecast with demcalc demand estimates. Then join with Stefano's base data
 	- base and total forecast in either 'input_data/Historic-Forecast-Extract20250827-edit.csv', which has the latest forecast for each week, or 'input_data/Forecast-Lead-Time-Extract-20251001.csv', which has forecasts up to 8 weeks before (bit more useful but bigger)
+- Idea: 1. join on base price and promotion price to quantify financial impact  2. get the ordered stock
 
 **Misc notes**
 - Argos SKUs in dim item table might have leading '10000' in SKU code. Use column `op_co_item_cd` for matching instead
-
