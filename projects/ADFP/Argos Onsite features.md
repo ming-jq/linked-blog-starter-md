@@ -23,5 +23,5 @@ To understand and make use of table [FLF_ARGOS_WEB_ONLINE_EVENT](https://sainsbu
 - [x] I should understand where promotions appear in user journeys more - study Argos website and brainstorm where I may see a promotion. Find a user journey example for each. ✅ 2025-10-27
 	- User journey: https://miro.com/app/board/uXjVJ2sXFOA=/?moveToWidget=3458764645722190351&cot=14
 
-- need to see how to match promo code with event page 
-- number of sessions that goes through event page rather than search 
+- need to see how to match promo code with event page
+- number of sessions that goes through event page rather than search as an indicator of importance being put on home page

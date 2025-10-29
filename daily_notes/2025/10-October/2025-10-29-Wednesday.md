@@ -1,0 +1,5 @@
+- Admin
+	- [ ] block out calendar for christmas PD time
+	- [ ] contact sam about tech hat
+	- [ ] send robin about the flexible working stuff and reminder for visa application
+- 
